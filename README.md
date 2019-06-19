@@ -1,10 +1,10 @@
-### Prerequisite
+### 1. Prerequisite
 - Python3
 - Git
-### Data Preprocessing
+### 2. Custom Data Preprocessing
 - Clear or convert string in csv file
 - Move the label or testing data into first column
-### Start
+### 3. Start
 - Input file: fars.csv
 - Output file: libsvm.data
 - Headers: true for header, false for no-header
