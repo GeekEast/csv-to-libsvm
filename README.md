@@ -3,7 +3,7 @@
 - Git
 ### Data Preprocessing
 - Clear or convert string in csv file
-- move the lable or testing data into first column
+- Move the lable or testing data into first column
 ### Start
 - Input file: fars.csv
 - Output file: libsvm.data
