@@ -1,5 +1,6 @@
 ### Prerequisite
 - Python3
+- Git
 
 ### Start
 - Input file: fars.csv
